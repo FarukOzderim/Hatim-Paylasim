@@ -7,7 +7,7 @@ FastAPI ve SQLmodel ile geliştirilimişbir hatim paylaşım sistemi
 1. sqlite
 2. `pip install -r requirements.txt`
 
-### Run
+### Run The Server
 
 `uvicorn run hatim:app:app`
 
@@ -20,5 +20,5 @@ FastAPI ve SQLmodel ile geliştirilimişbir hatim paylaşım sistemi
 `black .`
 
 ### Try The API
-1. Run the server
+1. Run the server `uvicorn run hatim:app:app`
 2. Connect to [localhost:8000:docs](http://127.0.0.1:8000/docs)
