@@ -1,6 +1,7 @@
-# Hatim-Paylasim
+# Hatim-Sharing-System
 
-FastAPI ve SQLmodel ile geliştirilimiş bir hatim paylaşım sistemi.
+- Hatim is a read of the holy book Quran from beginnning to end.
+- Developed with FastAPI ve SQLmodel frameworks.
 
 ### Requirements
 
