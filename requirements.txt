@@ -1,0 +1,7 @@
+black
+uvicorn
+fastapi
+sqlmodel
+pytest
+pytest_asyncio
+httpx
