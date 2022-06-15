@@ -1,6 +1,6 @@
 # Hatim-Sharing-System
 
-- Hatim is a read of the holy book Quran from beginnning to end.
+- Hatim is a read of the holy book Quran from beginnning to end and this project creates an API to share the hatim with pieces of 5 pages. 
 - Developed with FastAPI ve SQLmodel frameworks.
 
 ### Requirements
