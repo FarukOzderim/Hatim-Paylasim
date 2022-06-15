@@ -1,6 +1,6 @@
 # Hatim-Paylasim
 
-FastAPI ve SQLmodel ile geliştirilimişbir hatim paylaşım sistemi
+FastAPI ve SQLmodel ile geliştirilimiş bir hatim paylaşım sistemi.
 
 ### Requirements
 
